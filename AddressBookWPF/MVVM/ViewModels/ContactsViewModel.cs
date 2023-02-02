@@ -25,7 +25,7 @@ namespace AddressBookWPF.MVVM.ViewModels
 
         }
 
-
+/*
         private ContactModel selectedContact = null!;
 
 
@@ -48,7 +48,7 @@ namespace AddressBookWPF.MVVM.ViewModels
             else { }
 
         }
-
+*/
 
 
 
