@@ -25,11 +25,12 @@ namespace AddressBookWPF.MVVM.ViewModels
 
         }
 
-/*
+
         private ContactModel selectedContact = null!;
 
 
-        public ICommand Remove()
+        // Förstår inte hur jag ska ändra för att få detta att funka... 
+ /*       public ICommand Remove()
         {
 
             string mb_message = "Are you sure you want to delete this contact?";
@@ -47,8 +48,8 @@ namespace AddressBookWPF.MVVM.ViewModels
             }
             else { }
 
-        }
-*/
+        }*/
+
 
 
 
